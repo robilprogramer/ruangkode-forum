@@ -1,0 +1,14 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.local
+.DS_Store
+*.log
+
+# Storybook & Cypress
+storybook-static/
+cypress/videos/
+cypress/screenshots/
+*storybook.log
+.claude/

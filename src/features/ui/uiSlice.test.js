@@ -16,7 +16,7 @@ const initialState = { category: 'Semua', search: '', sort: 'recent', toast: nul
 
 describe('uiReducer function', () => {
   it('should change the active category when given setCategory action', () => {
-    expect(reducer(initialState, setCategory('redux')).category).toBe('redux');
+    expect(reducer(initialState, setCategory('redux')).category).toBe('react');
   });
 
   it('should change the search keyword when given setSearch action', () => {

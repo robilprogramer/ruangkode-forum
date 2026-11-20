@@ -1,5 +1,7 @@
 # RuangKode — Forum Diskusi Developer
 
+![CI](https://github.com/robilprogramer/ruangkode-forum/actions/workflows/ci.yml/badge.svg)
+
 Proyek orisinal React + Redux Toolkit untuk tugas **Membangun Aplikasi React dengan Redux** pada kelas Dicoding *Menjadi React Web Developer Expert*.
 
 ## Menjalankan
